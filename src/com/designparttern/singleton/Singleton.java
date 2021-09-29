@@ -2,6 +2,7 @@
 package com.designparttern.singleton;
 
 /**
+ * Creational Patterns: Singleton
  * What: A design patterns are well-proved solution for solving the specific problem/task
  * why: Singleton design pattern is the best solution for above specific problems( class only instance)
  *
