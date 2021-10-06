@@ -5,7 +5,8 @@ package com.designparttern.facade;
  * in the subsystem, therefore it hides the complexities of the subsystem from the client
  *
  * When: when you want to provide simple interface to o complex sub-system
- *       when several dependencies exist between clients and the implementation classes of an abstraction
+ *       when several dependencies exist between clients and
+ *            the implementation classes of an abstraction
  * */
 public class Main {
     public static void main(String[] args) {
